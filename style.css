@@ -1,0 +1,112 @@
+h1, h2, h3 {
+  color: #E2AEDD;
+  font-family: 'Bahiana', cursive;
+}
+
+h2 {
+  color: rgb(160,160,160);
+}
+
+a:hover {
+  color: green;
+  size: 500;
+}
+
+body {
+    background: #EBEBEB;
+    font-weight: 300;
+    color: #7d7d7d;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+
+.container {
+    width: 500px;
+    margin: 30px auto;
+}
+
+.card {
+  background: white;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.main-pic{
+  width: 140px;
+  border-radius: 90px;
+}
+
+.my-description {
+  color: #4C934C;
+  font-family: 'Bahiana', cursive;
+  font-size: 30
+}
+
+.gamer-pic{
+  width: 200px;
+  border-radius: 35px;
+}
+
+.edb-header {
+  font-family: 'Barrio', cursive;
+  font-size: 60
+}
+
+.edb-sub-header {
+  color: rgb(0,0,0);
+  font-family: 'Barrio', cursive;
+}
+
+.table-favorite-games {
+  /*border: solid red 2px;*/
+  align-content: center;
+}
+
+.game-text-box {
+  margin: 20px;
+}
+
+.game-text {
+  color: rgb(0,0,0);
+  font-family: 'VT323', monospace;
+  font-size: 30
+
+}
+
+.list-inline {
+  padding: 0px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 10px;
+}
+
+.fa-facebook-official {
+  font-size: 47px;
+}
+
+.fa-linkedin-square {
+  font-size: 50px;
+}
+
+.about {
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  border-radius: 0px;
+}
+
+.about-header {
+  color: rgb(160,160,160);
+}
+
+.about-text {
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+  color: #9BC53D;
+  line-height: 2em;
+}
